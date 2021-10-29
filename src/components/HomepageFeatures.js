@@ -57,6 +57,7 @@ export default function HomepageFeatures() {
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
+        
         </div>
       </div>
     </section>
