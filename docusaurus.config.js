@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'hey there',
   tagline: 'Dinosaurs are cool',
-  url: 'https://jasonlin0725-docusaurus-test-site.github.io',
+  url: 'https://ihappy9ok.github.io/iHappy9Ok_blog/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/Gingerbread_Man.png',
   organizationName: 'iHappy9Ok', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'iHappy9Ok_blog', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'iHappy9Ok',
