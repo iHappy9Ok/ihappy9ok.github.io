@@ -6,7 +6,7 @@ module.exports = {
   title: 'hey there',
   tagline: 'Dinosaurs are cool',
   url: 'https://ihappy9ok.github.io/iHappy9Ok_blog/',
-  baseUrl: '/',
+  baseUrl: '/iHappy9Ok_blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/Gingerbread_Man.png',
