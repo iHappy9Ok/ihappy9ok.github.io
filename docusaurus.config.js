@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'hey there',
   tagline: 'Dinosaurs are cool',
-  url: 'https://ihappy9ok.github.io/iHappy9Ok_blog/',
-  baseUrl: '/iHappy9Ok_blog/',
+  url: 'https://ihappy9ok.github.io/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/Gingerbread_Man.png',
